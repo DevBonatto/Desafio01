@@ -31,4 +31,4 @@ Proposta:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/X7CUXpKtcpnML00TSWSb8w/Projeto01-Extra-(Copy)?type=design&node-id=0%3A1&mode=design&t=qvwq1EMEtNl6ETtl-1).
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/npmHouatKvxuQVAd8LTHNU/Explorer---Projeto-01-(Copy)?type=design&node-id=0-1&mode=design&t=Xg72HtaBIqeqvx6r-0).
