@@ -24,6 +24,8 @@ Proposta:
   <img alt="Desenho de uma pessoa vestindo uma camisa amarela em uma sala com móveis" src="images/project.png" width="100%">
 </p>
 
+- [Acesse o resultado finalizado do Desafio 01, online](https://devbonatto.github.io/Desafio01/)
+
 
 ## 🔖 Layout
 
