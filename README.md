@@ -26,7 +26,7 @@ Proposta:
 
 
 ## ✅ Resultado
-- [Acesse o resultado finalizado do Desafio 01, online](https://devbonatto.github.io/Desafio01/)
+- [Acesse o resultado finalizado do Desafio 01, online](https://devbonatto.github.io/LadingPage-Desafio01/)
 
 
 ## 🔖 Layout
